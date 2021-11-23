@@ -7154,11 +7154,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\RentalKendaraan\\RentalKendaraan\\RentalKendaraan.csproj",
+      "projectUniqueName": "D:\\Github\\RentalKendaraan_130\\RentalKendaraan\\RentalKendaraan.csproj",
       "projectName": "RentalKendaraan",
-      "projectPath": "C:\\Users\\User\\source\\repos\\RentalKendaraan\\RentalKendaraan\\RentalKendaraan.csproj",
+      "projectPath": "D:\\Github\\RentalKendaraan_130\\RentalKendaraan\\RentalKendaraan.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\RentalKendaraan\\RentalKendaraan\\obj\\",
+      "outputPath": "D:\\Github\\RentalKendaraan_130\\RentalKendaraan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
